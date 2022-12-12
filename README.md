@@ -19,6 +19,7 @@ Python version of 3.7 or higher.
 The Python library pygame. Type "pip install pygame" in the command prompt or terminal to install it. For more instructions on installing pygame, you can use the following link: https://www.pygame.org/wiki/GettingStarted
 
 Instructions:
+
 playSnakeGame.py
 
 	Use the arrow keys to move up, down, left, or right.
