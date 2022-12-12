@@ -25,7 +25,7 @@ playSnakeGame.py
 	You will die and then automatically restart the game if:
 		1. The snake hits a wall.
 		2. The snake hits its own body.
-
+		
 testTrainedAgents.py
 
 	Follow the menu prompts in the command prompt/terminal to select which snake 
